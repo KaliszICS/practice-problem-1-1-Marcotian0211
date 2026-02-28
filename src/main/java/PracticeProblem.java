@@ -13,7 +13,7 @@ public class PracticeProblem {
 	}
 
 	public static void q2() {
-	System.out.println("Hello there big fella");
+	System.out.println(   " Hello there big fella");
 		//Write question 2 code here
 	}
 
