@@ -1,27 +1,30 @@
 public class PracticeProblem {
 
 	public static void main(String args[]) {
-
+    q1();
+	q2();
+	q3();
+	q4();
 	}
 
 	public static void q1() {
-		system.out.PrintLn{"hello,world"};
+	System.out.println("Hello World");
 		//Write question 1 code here
 	}
 
 	public static void q2() {
-		system.out.printLn{"Hello there big falle"};
+	System.out.println("Hello there big fella");
 		//Write question 2 code here
 	}
 
 	public static void q3() {
-		system.out.prinLn{"4"};
-		//Write question 3 code here
+     System.out.println(4);
+	     //Write question 3 code here
 	}
 
 	public static void q4() {
-		system.out.prinLn{"5.3"};
+	 System.out.println(5.3);
 		//Write question 4 code here
 	}
-
+ 
 }
